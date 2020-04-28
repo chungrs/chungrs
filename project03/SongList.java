@@ -17,7 +17,7 @@
  * CMSC 256 Section 902                    *
  ******************************************/
 
-package cmsc256;
+package cmsc256.project03;
 
 import bridges.connect.Bridges;
 import bridges.connect.DataSource;

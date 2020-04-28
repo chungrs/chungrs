@@ -11,7 +11,7 @@
  * CMSC 256 Section 902
  ************************************************************/
 
-package cmsc256;
+package cmsc256.project05;
 
 import bridges.base.BinTreeElement;
 import bridges.connect.Bridges;

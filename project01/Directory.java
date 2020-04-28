@@ -1,4 +1,4 @@
-package cmsc256;
+package cmsc256.project01;
 
 import java.util.*;
 public class Directory {

@@ -6,7 +6,7 @@
  * CMSC 256 Section 902                                     *
  ***********************************************************/
 
-package cmsc256;
+package cmsc256.project02;
 
 public class RamString implements WackyStringInterface {
     private String wackyString;

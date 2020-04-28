@@ -1,4 +1,4 @@
-package cmsc256;
+package cmsc256.project02;
 
 public class RamMain {
     public static void main(String[] args){

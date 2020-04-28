@@ -1,4 +1,5 @@
-package cmsc256;////
+package cmsc256.project02;
+////
 //// this is a collection of tests written by you and your
 //// peers that you can use to test your code for project 2.
 //// the results of these tests do not ensure your grade
@@ -8,8 +9,8 @@ package cmsc256;////
 
 import static org.junit.Assert.*;
 
-import cmsc256.MyIndexOutOfBoundsException;
-import cmsc256.RamString;
+import cmsc256.project02.MyIndexOutOfBoundsException;
+import cmsc256.project02.RamString;
 import org.junit.Test;
 
 public class RamStringTest {

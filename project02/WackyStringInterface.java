@@ -1,4 +1,4 @@
-package cmsc256;
+package cmsc256.project02;
 /**
  * This is an interface for a simple class that represents a string, defined
  * as a sequence of characters.

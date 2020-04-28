@@ -1,4 +1,4 @@
-package cmsc256;
+package cmsc256.project01;
 
 /**
  * A class that represents a Name consisting of a first, optional middle, 

@@ -8,7 +8,7 @@
  * CMSC 256 Section 902                                     *
  ***********************************************************/
 
-package cmsc256;
+package cmsc256.project01;
 
 public class Faculty extends Employee {
     //instance variable

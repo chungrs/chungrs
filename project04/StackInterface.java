@@ -1,4 +1,4 @@
-package cmsc256;
+package cmsc256.project04;
 
 
 public interface StackInterface<E>
